@@ -1,0 +1,15 @@
+comando para instalar react
+    npx create-react-app frontend //nombre
+
+react es una libreria de js
+
+https://stackblitz.com/
+Para poder crear proyecto con react y js
+
+DOM: Arbol de objetos del navegador que se crea cuando se renderiza una pagina
+
+Seguir guia paso a paso para frontend
+https://github.com/jiglesias2000/dds-frontend#readme
+
+npm start (en carpeta frontend-clase1)
+    Para iniciar un servidor de test
